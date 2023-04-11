@@ -3,4 +3,6 @@ Requires MongoClient server and Mongo Shell Installation
 
 Additional Installations:
 
+pip install flask
+
 pip install pymongo
