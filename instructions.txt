@@ -6,3 +6,11 @@ Additional Installations:
 pip install flask
 
 pip install pymongo
+
+To Run:
+
+python app.py 
+OR
+flask --app app run 
+OR
+flask --app app run --debugger
