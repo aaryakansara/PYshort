@@ -1,0 +1,6 @@
+Requires Flask Installation
+Requires MongoClient server and Mongo Shell Installation
+
+Additional Installations:
+
+pip install pymongo
