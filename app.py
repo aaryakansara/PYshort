@@ -85,3 +85,7 @@ def stats():
         url_list.append(url)
 
     return render_template('stats.html', urls=url_list)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
